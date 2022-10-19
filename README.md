@@ -1,4 +1,4 @@
-# Jose Fernande First Lab
+# Jose Fernandez First Lab
 
 ## Learning Goals
 
